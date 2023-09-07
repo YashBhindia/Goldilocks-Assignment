@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    
+    background-color: green;
+}
+
+
+
+
+/* .container {
+    margin-bottom: 15px;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 45px;
+    background: #11da2b;
+    border-radius: 7px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+} */
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+h2 {
+    
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+/* input[type="text"], input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+} */
+
+
+
+.container {
+    margin-bottom: 15px;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 45px;
+    background: #11da2b;
+    border-radius: 7px;
+    /* box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); */
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+
+button {
+    
+    background: #1900ff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 3px;
+    cursor: pointer;
+    justify-content: center;
+    
+}
+
+button:hover {
+    background: #0056b3;
+}
+
+
+
+
+.message {
+    text-align: center;
+    font-weight: bold;
+    color: rgb(245, 12, 175);
+}
+
+
+input[type="text"], input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
